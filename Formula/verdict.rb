@@ -1,8 +1,8 @@
 class Verdict < Formula
   desc "Token-efficient browser verification for AI coding agents"
   homepage "https://github.com/tuandm/verdict-cli"
-  url "https://registry.npmjs.org/verdict-cli/-/verdict-cli-0.1.0.tgz"
-  sha256 "59b68b005269f1b73f1a4579b54280decb70b9517b465d5a1e1f1e10d5d8c3fb"
+  url "https://registry.npmjs.org/verdict-cli/-/verdict-cli-0.1.1.tgz"
+  sha256 "21b7e550f5c6fe5b670602a47872b176fb6c7b3f63dad9660b9c1e4750ff3c70"
   license "MIT"
 
   depends_on "node@18"
